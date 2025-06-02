@@ -2,6 +2,7 @@
 
 ## Project info
 
+Project URL - https://campusprojectapp.netlify.app/
 
 **Use your preferred IDE**
 
